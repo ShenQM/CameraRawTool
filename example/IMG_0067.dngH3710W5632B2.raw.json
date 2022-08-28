@@ -1,0 +1,29 @@
+{
+    "basic_information":
+    {
+        "camera_maker": "my company",
+        "camera_model": "my camera",
+        "#CfaLayout": "0:grbg, 1:rggb, 2:bggr, 3: gbrg",
+        "CfaLayout": 1,
+        "width": 5632,
+        "height": 3710,
+        "#ActiveArea": "top, left, bottom, right",
+        "ActiveArea": [40, 132, 3710, 5632],
+        "#DefaultCropOrigin": "Relative to the top-left of ActiveArea. (Value 0:DefaultCropOriginH, Value 1:DefaultCropOriginV)",
+        "DefaultCropOrigin": [0, 0],
+        "#DefaultCropSize": "Value 0:DefaultCropSizeH, Value 1:DefaultCropSizeV)",
+        "DefaultCropSize": [5472, 3648], 
+        "bit_depth": 16,
+        "BlackLevel": [2048, 2048, 2048, 2048],
+        "WhiteLevel": 14335,
+        "rgain": 2.42,
+        "bgain": 1.57,
+
+        "AntiAliasStrength": 1.0,
+
+        "ISO": 100,
+        "exposure_time": 10,
+        "lens_aperture": 4,
+        "focal_length": 28
+    }
+}
